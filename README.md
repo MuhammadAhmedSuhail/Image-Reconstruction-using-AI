@@ -15,6 +15,15 @@ In this project, I implemented the A* algorithm to solve the problem of image re
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-You will need to have Python 3.x installed on your machine. You can download the latest version of [Python](https://www.python.org/downloads/" target="_blank) here.
+You will need to have Python 3.x installed on your machine. You can download the latest version of [Python](https://www.python.org/downloads/) here.
 
-<a href="https://www.python.org/downloads/" target="_blank">Hello, world!</a>
+#### Installing
+```
+
+
+
+
+
+
+
+
