@@ -16,6 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 You will need to have Python 3.x installed on your machine. You can download the latest version of [Python](https://www.python.org/downloads/) here.
+</br>
+You will also need to have Anaconda on your machine. You can download the latest version of [Anaconda](https://www.anaconda.com/) here.
 
 ### Installing
 Clone this repository onto your local machine.
