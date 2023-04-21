@@ -59,7 +59,7 @@ In the future, I could explore other algorithms for solving image reconstruction
 - Muhammad Ahmed Suhail
 
 ## Acknowledgments:
-- This project was completed as an assignment for Introduction to Artificial Intelligence at FAST - NUCES Islamabad.
+- This project was completed as an assignment for **Introduction to Artificial Intelligence** at FAST - NUCES Islamabad.
 
 
 
